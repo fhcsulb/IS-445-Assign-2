@@ -16,7 +16,7 @@ div.picture {
 }
 
 div.studentinfo {
-    margin-left: 150px;
+    padding-left: 0px;
 
 }
 
@@ -24,7 +24,7 @@ div.studentinfo {
 
 div.wrapper {
     margin: auto;
-    width : 80%;
+    width : 60%;
 
 }
 
