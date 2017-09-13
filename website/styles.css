@@ -1,4 +1,14 @@
 h1 {
     text-align: center;
-    color: orange;
+    color : black;
 }
+
+hr {
+    border-color: lawngreen;
+    border-width: 3px 0 0;    
+}
+
+
+
+
+
