@@ -11,12 +11,21 @@ hr {
 }
 
 div.picture {
-    position: static;
+    
     text-align: center;
 }
 
 div.studentinfo {
-    margin-left: 330px;
+    margin-left: 150px;
+
+}
+
+
+
+div.wrapper {
+    margin: auto;
+    width : 80%;
+
 }
 
 
